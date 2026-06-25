@@ -1,0 +1,252 @@
+PRODUCTION
+DEVELOPMENT
+ARTWORK
+TESTING
+Copyright 2007
+V I V A L A M O B I L E
+Version
+Revision
+GOAL
+CONTROLS
+AUTO PILOT
+STATISTICS
+SCORING
+POSTING SCORE
+LEADERBOARDS
+GAME HINTS
+Dig to the bottom of the sea as fast as you can! \n\nMine items and sell them at the shop so you can afford upgrades to your sub.
+LEFT/4: \nDig/move to the left \n\nRIGHT/6: \nDig/move to the right \n\nUP/2: \nSurface \n\nDOWN/8: \nDig down
+Holding the UP/2 or DOWN/8 keys for 5 seconds activate auto-pilot. \n\nOnce engaged, you'll keep moving without needing to hold the key. \n\nNOTE: Auto-pilot is disabled if you hit something, go to the cruiser, start drilling or press a different direction key.
+The game stores various statistics relating to your gameplay. View these by selecting the 'Statistics' option from the main menu. \n\nNOTE: You can clear your statistics (and saved game data) by selecting the 'Clear Saved Data' option from the OPTIONS menu.
+Your score is displayed when you have finished the game or have died. \n\nIt is calculated based on the time it took you to finish or die. Of course, the score will be bigger if you win...
+At the end of the game you will be asked you if you want to post your score to the Leaderboard. If you do, it will appear on the game's leaderboards. \n\nIMPORTANT: You may be charged for data traffic when submitting your score.
+Select 'Leaderboards' from the main menu or game over screen to view the high scores submitted by other players. \n\nIMPORTANT: You may be charged for data traffic when viewing the leaderboards.
+Sell mined items so you can afford sub upgrades. \n\nRarer materials are found the further down you dig. \n\nBuy items at the shop to make your life easier. \n\nIf you hold the up or down keys for a few seconds you'll activate your sub's auto-pilot.
+AQUA DIG
+GAME OVER
+SAVE GAME
+MAIN MENU
+THE SHOP
+UPGRADES
+RESUME
+SELL CARGO
+BUY ITEMS
+CRUISER
+CARGO
+ITEMS
+SOUND
+ON
+OFF
+YES
+NO
+STATISTICS
+TOGGLE
+PLAY
+OPTIONS
+HELP
+ABOUT
+LANGUAGE
+PLAY AGAIN
+EXIT
+BACK
+NEXT
+SKIP
+START
+SELECT
+SELL ALL
+MENU
+DISCARD
+INTRO
+WARNING
+CARGO FULL
+Your cargo bay is full. You need to resurface to empty your cargo bay before you continue to collect items.
+You currently have no mined items in your cargo hold. \n\nEarn money for upgrades by mining for items.
+ free Cargo slots left
+Aqua Bomb
+Spare O2 Tank
+Surface Booster
+Removes those annoying rocks that block your path. Don't get too close!
+Used to top-up your Oxygen bar, meaning less trips to the surface.
+Gets you to the surface...quickly! Only upwards though.
+Are you sure you want to 
+Your game data has been saved.
+SAVED
+save
+Price: 
+Details: 
+NO SALE
+spend your hard earned cash on a 
+CONFIRM
+MAX UPGRADE
+You cannot purchase any more upgrades of this type. You have them all!
+You don't have enough money to buy this
+item
+Boulder
+Quartz
+Silver
+Gold
+Opal
+Sapphire
+Ruby
+Emerald
+Diamond
+Oil
+Mystery Item
+Gas Pocket Ruptured!
+Davy Jones' Locker
+Massive Geode
+Archaea Colony
+Lemurian Artifact
+Midget Submarine
+Jimmy Hoffa's Remains
+Leviathan Scale
+Kraken Beak
+Meaning of Life
+Shopping Trolley
+Cement Shoe
+You'd better hope he doesn't come looking for it...
+A cavity in the rock full of beatiful, sparkling crystals.
+A pocket of previously unknown (and delicious) micro-organisms
+An oddly carved slab of stone. Impossibly ancient!
+You didn't think you were the first to try this, did you?
+Well, they certainly didn't want anyone to find him easily...
+The fossilised scale of an enormous sea creature.
+The fossilised beak of a massive aquatic creature.
+Well, this is an unlikely place to find that!
+Women will shop anywhere and everywhere!
+These shoes aren't too good for swimming...
+Rigged to your sub, your cargo space has increased.
+You sell it to the British Museum of Natural History for 
+Ultra-Tasty Snack Corp buys the rights to your find for 
+A strange collector buys it for the killer price of 
+You're able to salvage a superior upgrade for your drill. Sweet!
+You're forced to pay for the press conference, leaving you in debt for 
+Sold to the American Museum of Natural History for 
+The Smithsonian snaps this thing up for 
+Congratulations! You are now enlightened beyond belief.
+You can't find a trolley bay, so you just leave it here...
+With their greater weight, you now sink faster!
+ Litres
+ HP
+ Items
+ m/s
+ hardness
+ How much 
+How many 
+ do you want to discard?
+ do you want to buy?
+Items In Stock: 
+Oxygen Tank
+Engine
+Cargo Hold
+Sub Hull
+Drill
+Low Compression
+High Compression
+LOX (Liquid O2)
+Nitrox Tank
+Growler
+Rumbler
+Roarer
+Screamer
+Bus Load Cargo
+Kansas Cargo
+Astro Cargo
+Black Hole Cargo
+Paper Weight
+Solid Brick
+Lead Weight
+Anvil
+Step Drill
+Sinker Drill
+Tricone Drill
+Magma Seeker Drill
+GOOD GOING!
+Wow! You've made it to 2000m! Take this $1000. Keep it up.
+WOAH! You'll be in China in no time. Here's a $10,000 bonus.
+Key
+HINT
+To drop an 
+To use a 
+ press 
+G'day Digger. \n\nI'm Joe, and I'll be your operator for this mission. \n\nI know you didn't get much notice for this mission, so let me fill you in on the details.
+Entrepreneur Bridget Hanson has offered a $10 million prize for the digger who reaches the deepest depths of the ocean first.
+What does she get out of it, you ask? All the excavation details will belong to Bridget Hanson and her research department. \n\nWho knows, maybe they'll develop a cure for cancer with it.
+Reaching the deepest depths isn't the key to this mission: getting there first is. \n\nSpeed is of the essence, Digger, so don't waste time.
+There will be fierce competition for the prize, too. $10 million is a lot of money. \n\nYou'll be competing against the best diggers from all around the world.
+I know you've piloted the driller sub before, but here's a refresher course on the controls anyway. \n\nUse the directional keys to move around, and the *, 0 and # keys for your items (when you have them).
+I'll be in contact at the appropriate times Digger. \n\nSpeed be with you, and good luck.
+Operator
+Upgrade your drill to get past harder rock layers faster.
+Locations Drilled
+Oxygen Tanks Used
+Bombs Used
+Surface Boosters Used
+Boulders destroyed
+Total Items Mined
+Deepest Depth
+Best Score
+AUTO PILOT 
+ENGAGED
+DISENGAGED
+ more Oxygen.
+ more engine power.
+ more cargo space.
+ faster dropping speed.
+ of drilling power.
+LOADING
+BOUGHT ITEMS
+CLEAR SAVE DATA
+TOTAL FUNDS 
+DIGGER
+MAX REACHED
+KEEP DIGGING
+CONGRATULATIONS!
+Funds: 
+Do you want to play with sound ON?
+You've run out of oxygen! Return to the surface to fill your oxygen tank, or buy some top-ups at the shop.
+value
+This will clear saved game and statistics data. Proceed?
+You have sold your mined cargo for 
+You currently have no usable items. \n\nYou may like to purchase some next time you're at the SHOP.
+(Shortcut key: 
+ in cargo hold
+Upgrading to this 
+ will give you an extra 
+Aqua Bomb Placed!
+Surface Booster!
+Oxygen Top-Up
+Do you want this message to keep appearing when your Cargo is full?
+You can't carry any more 
+You died! You'll have to try again.
+Score: 
+Time to depth: 
+Max Depth: 
+Great work! That's the bottom. You're now $10 million richer! Enjoy it!
+Do you want to continue playing?
+You've already finished the game! Saving is disabled until you start a new game.
+Your game has been interrupted! \n\nPress any key to resume...
+Joe here, digger. \n\nBad news. During the night, one of the other diggers managed to sabotage your sub! It's totalled. \n\nLuckily, we've prepared the backup sub for you.
+Joe here, digger. \n\nBad news. During the night, an earth tremor collapsed all your shafts. \n\nHowever, as luck would have it, a clear path to your deepest depth opened up! \n\nGet digging!
+Saving...
+Rupturing gas pockets can damage your sub. Avoid them if possible.
+Press any key to continue
+VIBRATION
+EDIT NAME
+LEADERBOARDS
+VIEW
+TOP
+EDIT
+SAVE
+FAILED
+REQUEST
+Unable to post score at this time.
+Please try again later
+LEADERBOARDS UNAVAILABLE \n\nPLEASE TRY AGAIN LATER
+SCORE POSTED
+Your score has been sent to the leaderboards.
+POST SCORE?
+Do you want to send your score to the leaderboards?
+NO SCORES FOUND
+Your Rank:
+You are unranked 

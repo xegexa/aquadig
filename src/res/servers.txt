@@ -1,0 +1,2 @@
+mpgserver2.vivalamobile.com:8000/redstarcsp
+mpgserver1.vivalamobile.com:8080/redstarcsp

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>AquaDig</title>
+    <script src="https://cjrtnc.leaningtech.com/4.2/loader.js"></script>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        margin: 0;
+        min-height: 100%;
+        background: #1a1a1e;
+      }
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        min-height: 100dvh;
+        overflow: auto;
+        /* Avoid overlap with mobile notch / system UI when using viewport-fit=cover */
+        padding: env(safe-area-inset-top, 0) env(safe-area-inset-right, 0)
+          env(safe-area-inset-bottom, 0) env(safe-area-inset-left, 0);
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Tip: after one run, execute cjGetRuntimeResources() in the devtools console and pass the result as cheerpjInit({ preloadResources: ... }) for faster cold starts (CheerpJ docs). -->
+    <script>
+      (async function () {
+        /*
+         * Hiding the top strip: CheerpJ shows a non-commercial notice in the display unless you pass a
+         * valid licenseKey from Leaning Technologies (see https://cheerpj.com/docs/licensing ).
+         * Set the key below to remove that bar; then no extra display height is needed.
+         */
+        const licenseKey = null;
+        const init = {
+          status: "none",
+          version: 17,
+          enableInputMethods: false,
+          javaProperties: ["midp.web=true"],
+        };
+        if (licenseKey) {
+          init.licenseKey = licenseKey;
+        }
+        await cheerpjInit(init);
+        const gameW = 480;
+        const gameH = 640;
+        cheerpjCreateDisplay(gameW, gameH);
+        await cheerpjRunJar("/app/aquadig.jar");
+      })();
+    </script>
+  </body>
+</html>

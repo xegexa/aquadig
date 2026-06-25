@@ -1,0 +1,252 @@
+PRODUKTION
+ENTWICKLUNG
+GRAFIK
+TESTS
+Copyright 2007
+V I V A L A M O B I L E
+Version
+Überarbeitung
+ZIEL
+STEUERUNGEN
+AUTOPILOT
+STATISTIKEN
+ERGEBNISSE
+ERGEBNIS ANZEIGEN
+TOPERGEBNISSE
+SPIELTIPPS
+Grab dich so schnell wie möglich zum Meeresboden durch! \n\nGrabe nach Objekten und verkaufe sie im Laden, um dein U-Boot aufrüsten zu können.
+LEFT/4: \nNach links graben/gehen\n\nRIGHT/6: \nNach rechts graben/gehen\n\nUP/2: \nAuftauchen \n\nDOWN/8: \nTiefer graben
+Bleiben die Tasten UP/2 oder DOWN/8 5 Sekunden gedrückt, wird der Autopilot aktiviert. \n\nNach Aktivierung bewegst du dich, auch ohne den Schlüssel zu halten. \n\nHINWEIS: Der Autopilot wird deaktiviert, wenn du gegen etwas stößt, zum Kreuzer gehst, Bohrungen beginnst oder eine andere Richtungstaste drückst.
+Das Spiel speichert verschiedenen Statistiken über deine Spiele. Du kannst sie über die Option 'Statistiken' des Hauptmenüs einsehen. \n\nHINWEIS: Du kannst deine Statistiken (und gespeicherten Spieldaten) mit der Option 'Gespeicherte Daten löschen' aus dem Menü OPTIONEN löschen.
+Dein Ergebnis wird angezeigt, wenn du das Spiel beendet hast oder gestorben bist. \n\nEs wird nach der Zeit bis zum Spielende bzw. Tod berechnet. Natürlich hast du mehr Punkte, wenn du gewinnst...
+Bei Spielende wirst du gefragt, ob du dein Ergebnis in den Topergebnissen veröffentlichen möchtest. Falls ja, erscheint es in den Topergebnissen des Spiels. \n\nWICHTIG: Beim Einreichen deines Ergebnisses können Gebühren für die Datenübertragung anfallen.
+Wähle 'Topergebnisse' im Hauptmenü oder Spielendebildschirm, um die Topergebnisse der anderen Spieler zu sehen. \n\nWICHTIG: Bei Ansicht der Topergebnisse können Gebühren für die Datenübertragung anfallen.
+Schürfgut verkaufen, um dein U-Boot aufrüsten zu können. \n\nSelteneres Material findest du, indem du tiefer gräbst. \n\nIm Laden kannst du Objekte kaufen, die dir das Leben erleichtern. \n\nHälst du die Tasten up oder down gedrückt, aktiviert das den Autopilot deines U-Boots.
+AQUA DIG
+SPIEL BEENDET
+SPIEL SPEICHERN
+HAUPTMENÜ
+DER LADEN
+AUFRÜSTUNG
+ÜBERSICHT
+LADUNG VERKAUFEN
+OBJEKTE KAUFEN
+KREUZER
+LADUNG
+OBJEKTE
+TON
+EIN
+AUS
+JA
+NEIN
+STATISTIKEN
+SCHALTEN
+SPIEL
+OPTIONEN
+HILFE
+INFO
+SPRACHE
+NOCHMALS SPIELEN
+BEENDEN
+ZURÜCK
+WEITER
+ÜBERSPRINGEN
+START
+WÄHLEN
+ALLES VERKAUFEN
+MENÜ
+WEGWERFEN
+EINFÜHRUNG
+ACHTUNG
+LADUNG VOLL
+Deine Ladebucht ist voll. Du musst auftauchen, um deine Ladebucht zu leeren, bevor du weitere Objekte sammeln kannst.
+Du hast derzeit keine geschürften Objekte in deiner Ladebucht. \n\nDurch Schürfen nach Objekten verdienst du Geld zur Aufrüstung.
+ kostenlose Frachtstellen frei
+Wasserbombe
+Ersatz-O2-Tank
+Auftauchbeschleuniger
+Entfernt die ärgerlichen Steine, die dir den Weg versperren. Komm nicht zu nahe!
+Wenn du immer Sauerstoff nachfüllst, brauchst du weniger oft auftauchen.
+Bringt dich an die Oberfläche...aber schnell! Nur aufwärts.
+Möchtest du wirklich 
+Deine Spieldaten wurden gespeichert.
+GESPEICHERT
+speichern
+Preis: 
+Details: 
+KEIN VERKAUF
+dein hart verdientes Geld ausgeben für 
+BESTÄTIGEN
+MAX. AUFRÜSTUNG
+Du kannst keine weitere Aufrüstung dieser Art erwerben. Du kannst sie alle haben!
+Du hast nicht genügend Geld für dieses
+Objekt
+Felsbrocken
+Quarz
+Silber
+Gold
+Opal
+Saphir
+Rubin
+Smaragd
+Diamant
+Öl
+Geheimes Objekt
+Gastasche gerissen!
+Davy Jones' Schließfach
+Riesige Druse
+Archaea-Kolonie
+Lemurisches Kunstobjekt
+Mini-U-Boot
+Jimmy Hoffas Überreste
+Schuppe des Leviathan
+Krakenschnabel
+Bedeutung des Lebens
+Einkaufswagen
+Zementschuh
+Hoffen wir mal, dass er nicht kommt und danach sucht...
+Eine Felshöhle voller wunderbarer, glitzernder Kristalle.
+Eine Gruppe bisher unbekannter (und köstlicher) Mikroorganismen
+Ein seltsam gehauener Stein. Unmöglich antik!
+Du dachtest doch nicht, dass das noch niemand vor dir versucht hat?
+Na, sie wollten auf alle Fälle nicht, dass er so leicht zu finden ist...
+Die versteinerte Schuppe einer gigantischen Seekreatur.
+Der versteinerte Schnabel einer riesigen Wasserkreatur.
+Na, das ist ja ein ungewöhnlicher Fundort!
+Frauen kaufen immer und überall ein!
+Diese Schuhe sind nicht so toll zum Schwimmen...
+An dein U-Boot angetakelt ist dein Laderaum jetzt größer.
+Du verkaufst es dem britischem Naturkundemuseum für 
+Die Superlecker Snack GmbH kauft die Rechte an deinem Fund für 
+Ein fremder Sammler kauft es für den Killerpreis von 
+Du kannst deinen Bohrer aufrüsten. Toll!
+Du musst für die Pressekonferenz bezahlen und hast nun Schulden von  
+Verkauft an das amerikanische Naturkundemuseum für  
+Der Smithsonian schnappt sich das Ding für 
+Herzlichen Glückwunsch! Du bist unglaublich erleuchtet.
+Du kannst die Wagenbucht nicht finden, lässt ihn also einfach hier...
+Mit ihrem höheren Gewicht, sinkst du nun schneller!
+ Liter
+ HP
+ Objekte
+ m/s
+ Härte
+ Wieviel 
+Wie viele 
+ willst du wegwerfen?
+ willst du kaufen?
+Artikel auf Lager: 
+Sauerstofftank
+Motor
+Laderaum
+U-Boot-Rumpf
+Bohrer
+Geringe Kompression
+Starke Kompression
+LOX (Flüssigsauerstoff)
+Nitroxtank
+Growler
+Rumbler
+Roarer
+Screamer
+Busladung
+Tonnenladung
+Astroladung
+Endlosladung
+Federgewicht
+Backstein
+Bleigewicht
+Amboss
+Stufenbohrer
+Pressluftbohrer
+Tricone-Bohrer
+Magmasuchbohrer
+GUTE ARBEIT!
+Wow! Du hast 2000 m erreicht! Nimm diese 1000 $. Weiter so.
+WAHNSINN! So bist du bald in China. Hier ist eine Prämie von 10.000 $.
+Taste
+TIPP
+Ein(en) x werfen 
+Ein(en) x verwenden 
+ drücken 
+Hallo Digger. \n\nIch bin Joe. Bei dieser Mission bin ich dein Maschinist. \n\nIch weiß, du wurdest ganz unvermittelt auf diese Mission angesetzt, lass mich dir also die Sache näher erklären.
+Die Unternehmerin Bridget Hanson hat dem Digger einen Preis von 10 Million Dollar geboten, der als Erster die tiefsten Tiefen des Ozeans erreicht.
+Was hat sie davon, fragst du? Alle Grabungsinformationen gehören Bridget Hanson und ihrer Forschungsabteilung. \n\nWer weiß, vielleicht entwickeln sie damit ein Mittel gegen Krebs.
+Die tiefsten Tiefen zu erreichen, ist nicht das Wesentliche an der Mission: Es geht darum, als Erster dort zu sein. \n\nTempo ist wesentlich, Digger, du darfst also keine Zeit verlieren.
+Der Preis wird außerdem heiß umkämpft sein. 10 Millionen $ ist eine Menge Geld. \n\nDu wirst dich mit den besten Schürfunternehmen aus aller Welt messen.
+Ich weiß, du hast das Schürf-U-Boot schon mal gesteuert, hier sind aber trotzdem noch einmal ein paar Informationen über die Kontrollen. \n\nDu verwendest die Richtungstasten, um dich zu bewegen, und die Tasten *, 0 und # für deine Objekte (wenn du sie hast).
+Ich melde mich dann bei Gelegenheit Digger. \n\nIch wünsch dir Tempo und viel Glück.
+Maschinist
+Bohrer aufrüsten, um schneller durch harten Fels zu dringen.
+Bohrstellen
+Verwendete Sauerstofftanks
+Verwendete Bomben
+Verwendete Oberflächenbeschleuniger
+Zerstörte Felsen
+Geschürfte Objekte insgesamt
+Tiefste Tiefe
+Bestes Ergebnis
+AUTOPILOT 
+BESETZT
+FREI
+ mehr Sauerstoff.
+ mehr Motorkraft.
+ mehr Laderaum.
+ schnelleres Abwurftempo.
+ der Bohrkraft.
+WIRD GELADEN
+GEKAUFTE ARTIKEL
+DATEN SPEICHERN LÖSCHEN
+GELDER INSGESAMT 
+DIGGER
+MAXIMUM ERREICHT
+WEITERGRABEN
+HERZLICHEN GLÜCKWUNSCH!
+Kapital: 
+Spielst du mit EINgeschaltetem Ton?
+Du hast keinen Sauerstoff mehr! Geh zur Oberfläche zurück, um deinen Sauerstofftank aufzufüllen oder lass ihn im Laden nachfüllen.
+Wert
+Dadurch werden gespeicherte Spiel- und Statistikdaten gelöscht. Weiter?
+Du hast deine Schürfladung verkauft für 
+Du hast derzeit keine brauchbaren Objekte. \n\nVielleicht willst du bei deinem nächsten Besuch des LADENS welche kaufen.
+(Funktionstasten: 
+ im Laderaum
+Diese Aufrüstung 
+ gibt dir zusätzlich 
+Wasserbome geworfen!
+Auftauchbeschleuniger!
+Sauerstoff-Nachfüllung
+Soll diese Mitteilung wieder erscheinen, wenn deine Ladung voll ist?
+Du kannst nicht mehr transportieren 
+Du bist gestorben! Du must es noch einmal versuchen.
+Punkte: 
+Zeit bis Tiefe: 
+Höchsttiefe: 
+Tolle Arbeit! Das ist der Grund. Jetzt bist du 10 Millionen $ reicher! Viel Spaß!
+Willst du weiterspielen?
+Du hast das Spiel bereits beendet! Die Speicherfunktion ist deaktiviert, bis du ein neues Spiel beginnst.
+Dein Spiel wurde unterbrochen! \n\nMit beliebiger Taste Spiel wieder aufnehmen...
+Joe hier, Digger. \n\nSchlechte Nachrichten. In der Nacht schaffte es einer der anderen Digger, dein U-Boot zu sabotieren! Totalschaden. \n\nGlücklicherweise haben wir das Ersatz-U-Boot für dich vorbereitet.
+Joe hier, Digger. \n\nSchlechte Nachrichten. Während der Nacht zerstörte ein Erdbeben alle deine Schächte. \n\nWie es das Schicksal so wollte, hat sich jedoch ein Weg für dich in die tiefste Tiefe geöffnet! \n\nGrab los!
+Speichern...
+Aufreißende Gastaschen können dein U-Boot beschädigen. Am besten vermeiden.
+Mit beliebiger Taste fortfahren
+VIBRATION
+NAMEN ÄNDERN
+TOPERGEBNISSE
+ANSICHT
+OBEN
+WÄHLEN
+SPEICHERN
+ERFOLGLOS
+ANFRAGE
+Kann Ergebnis derzeit nicht veröffentlichen.
+Bitte später nochmals versuchen
+TOPERGEBNISSE NICHT VERFÜGBAR\n\nBITTE SPÄTER NOCHMALS VERSUCHEN
+ERGEBNIS VERÖFFENTLICHT
+Dein Ergebnis wurde an die Topergebnisse gesandt.
+ERGEBNIS ANZEIGEN?
+Willst du dieses Ergebnis an die Topergebnisse senden?
+KEINE ERGEBNISSE GEFUNDEN
+Dein Rang:
+Du hast keinen Rang 

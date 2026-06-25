@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: aquadig.AquaDig
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Name: AquaDig www.wapx.ws
+MIDlet-Icon: res/icon.png
+MIDlet-Vendor: Viva La Mobile
+MIDlet-1: AquaDig, res/icon.png, Mid
+MIDlet-Version: 1.22
+MicroEdition-Profile: MIDP-2.0

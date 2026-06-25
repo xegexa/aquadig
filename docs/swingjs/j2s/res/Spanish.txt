@@ -1,0 +1,252 @@
+PRODUCCIÓN
+DESARROLLO
+DISEÑO
+PRUEBAS
+Copyright 2007
+V I V A L A M O B I L E
+Versión
+Revisión
+OBJE
+CONTROLS
+PILOTO AUT
+ESTADÍST
+PUNTS
+REG PUNTS
+MÁX PUNTS
+PISTS JUEG
+Excava al fondo del mar lo más rápido que puedas. \n\nExtrae objetos y véndelos en la tienda para obtener mejoras en tu nave.
+IZQUIERDA/4: \nExcavar/moverse a la izquierda \n\nDERECHA/6: \nExcavar/moverse a la derecha \n\nARRIBA/2: \nSalir a la superficie \n\nABAJO/8: \nExcavar hacia abajo
+Manteniendo pulsadas las teclas ARRIBA/2 o ABAJO/8 durante 5 segundos se activa el piloto automático. \n\nUna vez activado, seguirás moviéndote sin tener que pulsar la tecla. \n\nNOTA: El piloto automático se desactiva si golpeas algo, pasas al modo buque, comienzas a perforar o pulsas una tecla en una dirección diferente.
+El juego guarda varias estadísticas sobre la partida. Para verlas, selecciona la opción 'Estadísticas' en el menú principal. \n\nNOTA: puedes borrar las estadísticas (y los datos del juego guardados) seleccionando la opción 'Borrar datos guardados' en el menú OPCIONES.
+Cuando terminas la partida o te mueres, aparece la puntuación. \n\nSe calcula según el tiempo que hayas tardado en terminar o morir. Por supuesto, la puntuación será más alta si ganas...
+Al final del juego, se te preguntará si deseas registrar tus puntos dentro de las máximas puntuaciones. De ser así, aparecerás en la tabla donde se indican éstas. \n\nIMPORTANTE: cuando envíes tus puntos, tal vez te cobren por el tráfico de datos.
+Selecciona 'Máx puntuaciones' en el menú principal o en la pantalla de fin de la partida para ver las puntuaciones máximas enviadas por otros jugadores. \n\nIMPORTANTE: cuando veas las puntuaciones máximas, tal vez te cobren por el tráfico de datos.
+Para conseguir mejoras en la nave, vende los objetos extraídos. \n\nCuanto más hondo excaves, más exclusivos serán los materiales que encuentres. \n\nCompra objetos en la tienda para que el viaje sea más fácil. \n\nSi mantienes pulsadas las teclas arriba o abajo unos segundos, activarás el piloto automático del submarino.
+AQUA DIG
+FIN PARTI
+GUAR PART
+MENÚ PPAL
+TIENDA
+MEJORS
+REANUD
+VEND CARGA
+COMPR OBJ
+BUQUE
+CARGA
+OBJET
+SONID
+AC
+DES
+SÍ
+NO
+ESTADÍST
+ALTERN
+JUG
+OPCIONS
+AYU
+SOBRE
+IDIOMA
+VOLV JUGAR
+SAL
+ATR.
+SIGU
+SALT
+INIC.
+SELECC
+VEND TOD
+MENÚ
+DESHECH
+INTRO
+ADVERT
+CARGA LLEN
+La bodega de carga está llena. Tienes que subir a la superficie y vaciarla antes de seguir recogiendo objetos.
+No hay objetos extraídos en la bodega de carga. \n\nConsigue dinero para mejoras extrayendo objetos.
+hay ranurs carga librs
+Bomba agu
+Tanque O2 rep
+Impulsor superf
+Retira las molestas piedras que bloquean tu camino. No te acerques demasiado
+Se utiliza para aumentar al máximo la barra de oxígeno, lo que supone menos viajes a la superficie.
+Te lleva a la superficie, rápidamente. Pero sólo hacia arriba.
+¿Seguro que quieres 
+Datos de partida guardados
+GUARD
+guar
+Precio:
+Datos: 
+NO VENT
+gasta el dinero ganado en un/a 
+CONFMR
+MEJORA MÁX
+No puedes comprar más mejoras de este tipo, ya las tienes todas.
+No tienes dinero suficiente para comprar esto
+obj.
+Peñasco
+Cuarzo
+Plata
+Oro
+Ópal
+Zafiro
+Rubí
+Esmer.
+Diamant
+Petróleo
+Objeto mist.
+Rotura bolsa de gas.
+Taquill Davy Jones
+Gran geoda
+Colonia arqu
+Artefacto lemurio
+Subm miniatura
+Restos de Jimmy Hoffa
+Escama Leviatán
+Pico Kraken
+Signific. vida
+Carro compra
+Zap cement
+Más te vale que no venga a buscarlo...
+Cavidad en la roca llena de cristales brillantes y maravillosos.
+Una bolsa de microorganismos anteriormente desconocidos (y deliciosos)
+Una losa de piedra con una extraña talla. Tremendamente antigua.
+No has pensado que has sido el primero en probarlo, ¿verdad?
+Bueno, seguro que no querían que nadie les encontrase fácilmente...
+La escama fosilizada de una enorme criatura marina.
+El pico fosilizado de una criatura acuática de gran tamaño.
+Bien, este no es un lugar donde se encuentre esto con frecuencia.
+Las mujeres comprarán en todas partes.
+Este calzado no es muy bueno para nadar...
+Acoplado al submarino, el espacio para la carga ha aumentado.
+Lo vendes al Museo Británico de Historia Natural por 
+Aperitivos sabrosísimos SA compra los derechos de tu hallazgo por 
+Un extraño coleccionista lo compra por el increíble precio de 
+Logras una extraordinaria mejora para tu perforador. ¡Fantástico!
+Estás obligado a pagar por la conferencia de prensa, lo que te deja una deuda de 
+Vendido al Museo Americano de Historia Natural por 
+Los Smithsonianos se hacen con esto por 
+¡Felicidades! Has sido iluminado más allá de cualquier creencia.
+No puedes encontrar un carrito, así que déjalo aquí...
+Gracias a su superior peso, te hundes más rápido.
+ Litros
+ HP
+Objets
+ m/s
+ dureza
+ ¿Cuánto 
+¿Cuántos 
+ quieres deshechar?
+ quieres comprar?
+Objetos stock: 
+Tanq oxíg
+Motor
+Bodega
+Casco su
+Perf.
+Baja compresión
+Alta compresión
+LOX (O2 líqu)
+Tanq nitrox
+Growler
+Rumbler
+Roarer
+Screamer
+Bodega pequeña
+Bodega norm
+Bodega gran
+Bodega extragr
+Peso ligero
+Peso elev
+Muy pesado
+Yunke
+Perf paso
+Per hundim
+Per tricónico
+Perforadr bús lava
+VAS BIEN.
+¡Guau! ¡Has llegado a los 2000 m! Consigues 1.000 $. Sigue así.
+¡GUAU! En nada, llegarás a China. Obtienes una bonificación de 10.000 $.
+Lla
+PIST
+Tirar un/a
+Usar un/a
+pulsar 
+Excavador G'day. \n\nSoy Joe y seré tu operador en esta misión. \n\nSé que no te han avisado con mucho tiempo, así que te indicaré los detalles.
+La empresaria Bridget Hanson ha ofrecido un premio de 10 millones de dólares al excavador que llegue primero a lo más profundo del océano.
+Te preguntarás qué saca ella de ésto. Todos los datos de la excavación pertenecerán a Bridget Hanson y a su departamento de investigación. \n\nQuién sabe, tal vez consigan una cura para el cáncer gracias a ello.
+Llegar a lo más profundo es la clave de esta misión, y hacerlo el primero. \n\nLa velocidad resulta esencial, así que no perdamos tiempo.
+Además la lucha por el premio será muy reñida. 10 millones de dólares es mucho dinero. \n\nCompetirás contra los mejores excavadores del mundo.
+Sé que has pilotado el submarino perforador antes, pero de todos modos repasemos los controles. \n\nUsa las teclas de dirección para moverte y las teclas *, 0 y # para los objetos (cuando los tengas).
+Podrás contactar conmigo cuando lo necesites. \n\nQue la velocidad te acompañe, buena suerte.
+Operador
+Mejora el perforador para atravesar más rápido las rocas más duras.
+Lugares perforads
+Tanqus oxíg usad
+Bombs usad
+Impuls. Superf usados
+Peñascos destr.
+Objets totals extr.
+Profund. máx
+Mejor punt
+PILOTO AUT
+ACTIVAD
+DESACTIV
+ más oxígeno.
+ más potencia motor
+más espacio carga.
+mayor velocidad caída
+ de potencia perfor
+CARGAN
+OBJETS COMPR
+BORRAR DAT GUAR
+FONDS TOTALS
+EXCAVR
+MÁX ALCAN
+SEGUIR EXCAV
+¡FELICIDADES!
+Fondos:
+¿Quieres jugar con sonido activ.?
+¡Te has quedado sin oxígeno! Vuelve a la superficie para llenar el tanque de oxígeno o comprar repuestos en la tienda.
+valor
+Se borrarán estadísticas y datos partida guardados. ¿Seguir?
+Has vendido la carga extraída por 
+Actualmente no tienes objetos que puedas usar. \n\nTal vez quieras comprar algunos la próxima vez que vayas a la TIENDA.
+(Tecla abrev: 
+en la bodega
+Al mejorar a esto 
+ conseguirás un extra de
+bomba acuática.
+impulsor superf
+repuesto oxíg
+¿Quieres que siga apareciendo este mensaje cuando la carga esté llena?
+No puedes llevar nada más 
+¡Has muerto! Tendrás que volver a intentarlo.
+Punts: 
+Tiempo imner: 
+Prof máx: 
+¡Un gran trabajo! Eso es el fondo. ¡Eres 10 millones de dólares más rico! ¡Que lo disfrutes!
+¿Quieres seguir jugando?
+Ya has terminado la partida. La función guardar está desactivada hasta iniciar una nueva partida.
+La partida se ha interrumpido. \n\nPulsa cualquier tecla para reanudarla...
+Aquí Joe, excavador. \n\nMalas noticias. Durante la noche, uno de los otros excavadores logró sabotear tu nave. Está destrozada. \n\nAfortunadamente, te hemos preparado la de repuesto.
+Aquí Joe, excavador. \n\nMalas noticias. Durante la noche, un temblor de tierra ha acabado con los ejes. \n\nPor fortuna se ha abierto un camino sin obstáculos hasta lo más profundo. \n\nSigue excavando.
+Guardando
+La ruptura de bolsas de gas puede dañar la nave, si es posible, evítalas.
+Pulsa tecla para seguir
+VIBRACIÓN
+MOD NOMBR
+MÁX PUNTS
+VER
+TOP
+MOD
+GUAR
+FALLO
+SOLICIT
+Ahora no se pueden registr puntos
+Inténtalo más tarde
+MÁX PUNTS NO DISPONIBLES \n\nINTÉNTALO MÁS TARDE
+PUNTOS REGTS
+Puntos enviados a puntuaciones máximas.
+¿REG PUNTS?
+¿Quieres enviar puntos a las puntuaciones máximas?
+PUNTS NO ENCONT
+Clasific:
+Sin clasificación

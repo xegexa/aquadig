@@ -1,0 +1,252 @@
+PRODUCTION
+DÉVELOPPÉ
+ILLUSTR
+TESTS
+Copyright 2007
+V I V A L A M O B I L E
+Version
+Révision
+BUT
+COMMANDE
+AUTO PILOT
+STATS
+POINT
+POSTER POINT
+LES MENEURS
+TRUCS JEU
+Creuse le fond de la mer aussi vite que possible!\n\nExtraire items et les vendre au magasin pour augmenter la valeur de ton sub.
+GAUCHE/4: \nCreuse/bouge gche \n\nDROITE/6: \nCreuse/bouge drte \n\nHAUT/2: \nSurface \n\nBAS/8: \nCreuse bas
+Tenir clé HAUT/2 ou BAS/8 pour 5 secondes active auto pilote. \n\nUne fois parti, pas besoin de tenir la clé. \n\nNOTE: Auto pilote est désactivé si vous touchez une clé, aller au bateau, commencer à creuser ou appuyer sur clé de direction différente.
+Le jeu garde des stats variées sur votre jeu. Voir celles-ci en sélectionnant l'option «Statistiques» à partir du menu principal. \n\nNOTE:Effacer stats (+ données sauvées) en sélectionnant l'option «Effacer données sauvées» du menu OPTIONS
+Votre pointage est affiché lorsque le jeu est fini ou lorsque vous êtes mort. \n\nIl est calculé sur le temps pris pour finir/mourir. Bien sur, le pointage est plus élevé si vous gagnez.
+A la fin du jeu on vous demandera si vous voulez afficher votre pointage sur la liste des meneurs. Si oui, ce sera fait. \n\nIMPORTANT:Vous pouvez être chargé pour le trafic des données lorsque vous soumettez votre pointage.
+Choisir «Les Meneurs» du menu princ. ou l'écran Jeu fini pour voir les points des autres. \n\nIMPORTANT:Vous pouvez être chargé pour le trafic des données lorsque vous soumettez votre pointage. 
+Vendre les items extraits pour augmenter valeur du sub. \n\nPlus vous creusez plus rares sont les items. \n\nAcheter items au magasin pour vous simplifier la vie. \n\nEn tenant la clé haut/bas pour quelques sec. vous activerez auto pilote de sub.
+CREUSAGE
+JEU FINI
+SAUVE JEU
+MENU PRIN
+MAGASIN
+AUGMENTE
+FINIR
+VEND CARGO
+ACHETER
+BATEAU
+CARGO
+ITEMS
+SON
+ON
+OFF
+OUI
+NON
+STATS
+CHANGE
+JOUE
+OPTIONS
+AIDE
+INFO
+LANGUE
+ENCORE
+SORT
+RET.
+SUIV
+SAUT
+ALLEZ
+SÉLECT
+VEND
+MENU
+JETER
+INTRO
+ALARME
+CARGO PLN
+Votre cargo est plein. Vous devez remonter pour vider le cargo avant de continuer à collectionner items.
+Aucun item creusé dans votre cargo. \n\nGagnez argent pour améliorations en creusant pour des items
+Couloirs cargo disp.
+Bombe eau
+Cuve O2 libre
+Pompe surface
+Enlève ces roches agaçantes qui bloquent le chemin. Pas trop près!
+Pour remplir votre barre d'oxygène, donc moins de remontées
+Vour remonte à la surface vite! Vers le haut seulement
+Voulez-vous vraiment
+Données de jeu sauvegardées
+SAUVÉ
+sauv
+Prix:
+Détails:
+NON
+dépensez argent gagné durement
+CONFIRM
+AMÉL.MAX
+Impossible d'acheter d'autres de ce type. Vous les avez tous.
+Pas assez d'argent pour acheter ceci
+ITEMS
+Roche
+Quartz
+Argent
+Or
+Opal
+Saphir
+Ruby
+Émeraude
+Diamant
+Oil
+Item mystère
+Poche gaz fissurée
+Casier Davy Jones
+Géode massive
+Archaebactérie
+Artéfact lémurien
+Petit sous-marin
+Restes de Jimmy Hoffa
+Leviathan Scale
+Bec kraken
+Sens de la vie
+Chariot courses
+Soulier cimenté
+Vous êtes mieux d'espérer qu'il ne revienne pas...
+Une cavité dans la roche pleine de cristaux éclatants
+Une poche de micro-organismes auparavant inconnus et délicieux
+Dalle de roche coupée étrangement. Très ancient!
+Vous ne pensiez pas être le premier à essayer ceci, non?
+Ils ne voulaient pas que quelqu'un le trouve facilement...
+L'écaille fossilée d'une énorme créature de mer
+Le bec fossilé d'une massive créature de mer
+C'est une drôle de place pour trouver cela!
+Les femmes magasinent partout/nulle part
+Ces souliers ne sont pas bons pour nager...
+Gréé à votre sub, votre espace cargo a augmenté
+Vous vendez au British Museum of Natural History pour
+Ultra-Tasty Snack Corp achète les droits de l'item pour
+Un collectionneur'achète pour le prix mirobolant de
+Vous pouvez sauver une amélioration pour votre forage. Génial!
+Vous payez pour la conférence de presse, vous laissant une dette de
+Vendu au American Museum of Natural History pour
+Le Smithsonian empoche cet item pour
+Bravo! Vous êtes maintenant un connaisseur incroyable
+Vous ne trouvez pas de chariot, vous le laissez donc ici
+Avec la pesanteur accrue,vous coulez plus vite!
+Litres
+HP
+Items
+m/s
+dureté
+Combien
+Combien
+voulez-vous jeter?
+Voulez-vous acheter?
+Items en stock:
+Réservoir O2
+Moteur
+Soute
+Coque
+Forer
+Compression -
+Compression +
+LOX-O2 liquide
+Cuve nitrox
+Growler
+Rumbler
+Roarer
+Screamer
+Cargo autobus
+Cargo Kansas
+Cargo Astro
+Cargo trou noir
+Poids papier
+Brique dure
+Masse plomb
+Anvil
+Étagé
+Marteau
+Tricône
+Chercheur magma
+TRÈS BIEN!
+Wow! Vous vous êtes rendu à 2000m! Voici 1000$. Continuez
+OOPS!Vous serez bientôt en Chine. Voici un bonus de 10 000$
+Clé
+TRUC
+Échapper un
+Se servir
+presse
+Salut chercheur. \n\nJe suis Joe, votre opérateur pour cette mission. \n\nJe sais que vous n'avez pas eu beaucoup de préavis, laissez moi vous expliquer.
+L'entrepreneur Bridget Hanson a offert un prix de 10 million pour le chercheur qui va le plus profond dans l'océan en premier
+Pourquoi, vous pensez? Tous les détails de l'excavation appartiendront à Bridget Hanson et son service de recherche. \n\nQui sait, ils trouveront peut-être un remède pour le cancer.
+Atteindre le plus profond n'est pas important: arriver en premier l'est. \n\n La vitesse est importante, chercheurs, ne perdez pas de temps.
+La compétition sera féroce pour le prix. 10$ million c'est beaucoup d'argent. \n\nVous compétitionnerez avec les meilleurs chercheurs de partout dans le mode.
+Je sais que vous avez utilisé la foreuse avant, mais voici quand même un rappel des contrôles. \n\nLes clés de directions pour se déplacer, et les touches *, 0 et # pour vos items (quand vous en avez(.
+À plus tard donc. \n\nQue la vitesse soit avec vous. Bonne chance.
+Opérat.
+Améliorez votre foreuse pour les roches plus dures.
+Lieux forés
+# réservoirs O2
+# bombes
+# bombes de surface
+# roches détruites
+Total items forés
+Le + profond
++  points
+AUTO PILOT 
+ACTIVÉ
+DÉSACTIVÉ
++ oxygène
++ puissance moteur
++ espace cargo
+Vitesse chute + rapide
+de puiss. Forage
+CHARGE
+ITEM ACHETÉ
+EFFACER DONNÉES
+FONDS TOTAUX
+FOREUR
+MAX ATTEINT
+CONTINUEZ
+FÉLICITATIONS!
+Fonds:
+Voulez-vous jouer avec le son?
+Vous n'avez plus d'oxygène! Retournez à la surface pour remplir réservoir, ou achetez des remplissages.
+prix
+Ceci effacera jeu sauvé et stats. Continuez?
+Vous avez vendu vos items pour
+Vous n'avez plus d'items utilisables \n\nVous pourrez en acheter plus au magasin la prochaine fois.
+(Clé raccourci:
+dans cargaison
+Améliore avec ceci
+vous donnera un extra
+Bombe Aqua placée
+Bombe surface!
+Remplissage O2
+Voulez-vous que ce message réapparaisse si votre cargo est plein?
+Charge complète
+Vous êtes mort! Essayez encore
+Point
+Temps/profond
+Prof. Max.
+Bon travail! C'est le fond. Vous êtes + riche de 10$ million! Bravo!
+Voulez-vous jouer encore?
+Vous avez déjà terminé la joute! Sauvegarde désactivée, vous devez jouez encore.
+Jeu interrompu! \n\nAppuyez sur une touche pour continuer..
+Joe ici, chercheur. \n\nMauvaise nouvelle. Durant la nuit,un autre a réussi à saboter votre sub! \n\nHeureusement nous en avons préparé un autre pour vous.
+Joe ici. \n\nMauvaise nouvelle.Durant la nuit, un tremblement de terre a fait tomber vos puits. \n\nMais, heureusement,un chemin s'est ouvert vers votre plus grande profondeur! \n\nContinuez!
+Sauve...
+Percer des poches de gaz peut endommager votre sub. Évitez-les.
+Appuyez pour continuer.
+VIBRATION
+ÉDITE NOM
+LES MENEURS
+VOIR
+TOP
+EDIT
+SAVE
+ÉCHEC
+REQUÊTE
+Incapable de sauver le pointage
+Essayez plus tard
+LES MENEURS NON DISP. \N\NESSAYEZ ENCORE PLUS TARD
+POINT. SAUVÉ
+Votre pointage a été envoyé parmi les meneurs
+SAUVER PT?
+Voulez-vs envoyer votre pointage chez les meilleurs
+PTS TROUVÉS:NON
+Votre rang
+Vous: non classé
